@@ -5,7 +5,7 @@
 #     def __init__(self,fname,lname,salary=1000):
 #      self.fname=fname
 #      self.lname=lname
-#      self.salary=salary
+#      self.salary=salary;;;
 #     def print_emp(self):
 #         print("firstname:"+self.fname+"lastname:"+self.lname+"sal:"+str(self.salary))
 
